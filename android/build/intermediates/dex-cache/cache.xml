@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f589749c419c3b9216cc9df5443a0be3bf495985/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3fec0cbe8fd18a74042f7f31df99a8591cbf224a">
+        <dex dex="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/pre-dexed/debug/classes_71a6bd5c0bcbd578477c1dcf2a45af47246e74d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0faf4f71fdcdd702fc90198b27fb472e9ec85e97">
+        <dex dex="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32545cff374b7883e1f80ff67d9321a1c9fc52f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yomicha/.android/build-cache/080cabdad6602da344f49ddf9c0e8c367b754db7/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_bb09543c96ad3c1de9719f00c6ecf453a0ff8cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yomicha/.android/build-cache/080cabdad6602da344f49ddf9c0e8c367b754db7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/pre-dexed/debug/classes_810c5f695e82635ba813de1c0dfbefdc9a935432.jar" />
+    </item>
+
+</items>

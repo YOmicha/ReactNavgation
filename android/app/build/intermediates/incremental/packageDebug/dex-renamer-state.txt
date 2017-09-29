@@ -1,0 +1,7 @@
+#Fri Sep 29 15:56:11 ECT 2017
+base.0=/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32545cff374b7883e1f80ff67d9321a1c9fc52f5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f589749c419c3b9216cc9df5443a0be3bf495985/classes.dex
+base.1=/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f589749c419c3b9216cc9df5443a0be3bf495985
+file.0=/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32545cff374b7883e1f80ff67d9321a1c9fc52f5/classes.dex

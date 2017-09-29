@@ -1,0 +1,4 @@
+#Fri Sep 29 14:14:19 ECT 2017
+base.0=/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/yomicha/Documents/Projects/ReactNative/getting-started-react-native-navigation-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
